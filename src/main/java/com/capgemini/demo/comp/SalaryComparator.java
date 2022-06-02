@@ -3,7 +3,7 @@ package com.capgemini.demo.comp;
 import java.util.Comparator;
 
 public class SalaryComparator implements Comparator<Employee> {
-
+//demo
 	@Override
 	public int compare(Employee emp1, Employee emp2) {
 
